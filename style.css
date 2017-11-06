@@ -11,6 +11,13 @@
   background: url("images/background.jpg");
   background-size: 100%;
 }
+.christmasjoke{
+	font-family: 'Indie Flower', cursive;
+	color: white;
+	text-align:center;
+	margin-left: 0px;
+	margin-right: 1200px;
+}
 
 .a {
 	display: none;
@@ -39,9 +46,4 @@
 	padding-bottom: 10px;
 	line-height: 10px;
 	font-family: 'Indie Flower', cursive;
-}
-.christmasjoke{
-	font-family: 'Indie Flower', cursive;
-	color: white;
-	text-align:center;
 }
