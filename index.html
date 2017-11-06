@@ -1,10 +1,6 @@
 <!DOCTYPE html>
 <head>
-<link href="https://fonts.googleapis.com/css?family=Eater|Indie+Flower" rel="stylesheet" />
-<script src="jquery.min.js"></script>
-</head>
-<body>
-	<style>
+		<style>
 	h1{
 
 		color:white;
@@ -15,7 +11,7 @@
 
 	}
 	body{
-  background: url(https://www.pixelstalk.net/wp-content/uploads/2016/06/Free-Desktop-Starry-Night-Wallpaper-Download.jpg);
+  background: url("images/background.jpg");
   background-size: 100%;
 }
 p{
@@ -33,6 +29,16 @@ p{
 	
 
 </style>
+<link href="https://fonts.googleapis.com/css?family=Eater|Indie+Flower" rel="stylesheet" />
+<script
+  src="https://code.jquery.com/jquery-3.2.1.min.js"
+  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+  crossorigin="anonymous"></script>
+<script src="script.js"></script>
+
+</head>
+<body>
+
 
 <h1>Elf Help Desk</h1>
 
@@ -40,19 +46,19 @@ p{
 <p>Simply type the names and email addresses into the boxes below for all your Secret Santa needs</p>
 
 <div class="secretsanta">
-	<div class="entry"
+	<div class="entry">
 <label for="name">Name</label>
 <input type="text" id="name" name="user_name">
 <label for="email">Email</label>
 <input type="text" id="email" name="address">
 </div>
-<div class="entry"
+<div class="entry">
 <label for="name">Name</label>
 <input type="text" id="name" name="user_name">
 <label for="email">Email</label>
 <input type="text" id="email" name="address">
 </div>
-<div class="entry"
+<div class="entry">
 <label for="name">Name</label>
 <input type="text" id="name" name="user_name">
 <label for="email">Email</label>
@@ -60,5 +66,5 @@ p{
 </div>
 
 </div>
-
+<button id="add">Add another row</button>
 </body>
