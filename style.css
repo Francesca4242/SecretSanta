@@ -1,12 +1,19 @@
+
+
+	
+	.logo{
+		height:300px
+		margin: 0 auto;
+	}
+
+
 	.elflogo{
 		margin: 0 auto;
 		display: block;
-		border-radius: 1000px;
-		height: 225px;
+		border-radius: 999px;
+		height: 250px;
 		width:225px;
-		padding-top: 20px;
-
-
+		padding-top: 30px;
 	}
 
 	h1 span{
@@ -33,6 +40,8 @@
 	.char11 {transform:rotate(24deg);}
 	.char12 {transform:rotate(30deg);}
 	.char13 {transform:rotate(36deg);}
+
+
 
 	
 	body{
