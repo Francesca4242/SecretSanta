@@ -14,4 +14,10 @@ $( document ).ready(function() {
   $(".a").show();
 });
 
+   $("#send").click(function() {
+   	var numItem= $('.entry').length;
+   	alert(numItem);
+
+   });
+
 });
