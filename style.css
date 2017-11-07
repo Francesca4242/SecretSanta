@@ -2,18 +2,39 @@
 		margin: 0 auto;
 		display: block;
 		border-radius: 1000px;
-		height: 200px;
+		height: 225px;
+		width:225px;
+		padding-top: 20px;
+
 
 	}
-	h1{
 
+	h1 span{
+		font:26px Monaco, MonoSpace;
+		height:200px;
+		position: absolute;
+		width: 20px;
+		left:665px;
+		top: 0;
+		transform-origin: bottom center;
 		color:white;
-		font-size:96px;
-		font-weight: bold;
-		font-family: 'Eater', cursive;
-		text-align: center;
 
 	}
+	.char1 {transform:rotate(-36deg);}
+	.char2 {transform:rotate(-30deg);}
+	.char3 {transform:rotate(-24deg);}
+	.char4 {transform:rotate(-18deg);}
+	.char5 {transform:rotate(-12deg);}
+	.char6 {transform:rotate(-6deg);}
+	.char7 {transform:rotate(0deg);}
+	.char8 {transform:rotate(6deg);}
+	.char9 {transform:rotate(12deg);}
+	.char10 {transform:rotate(18deg);}
+	.char11 {transform:rotate(24deg);}
+	.char12 {transform:rotate(30deg);}
+	.char13 {transform:rotate(36deg);}
+
+	
 	body{
   background: url("images/background.jpg");
   background-size: 100%;
