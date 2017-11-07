@@ -20,6 +20,9 @@ $( document ).ready(function() {
    	var N = numItem; 
 var number=Array.apply(null, {length: N}).map(Number.call, Number);
 alert(number);
+var points = number;
+points.sort(function(a, b){return 0.5 - Math.random()});
+alert(points);
    });
 
 });
