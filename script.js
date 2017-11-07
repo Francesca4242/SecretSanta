@@ -23,6 +23,10 @@ alert(number);
 var points = number;
 points.sort(function(a, b){return 0.5 - Math.random()});
 alert(points);
+var x =points[0];
+var numItem=$('.email')[x];
+
+
    });
 
 });
