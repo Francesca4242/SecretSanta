@@ -17,7 +17,9 @@ $( document ).ready(function() {
    $("#send").click(function() {
    	var numItem= $('.entry').length;
    	alert(numItem);
-
+   	var N = numItem; 
+var number=Array.apply(null, {length: N}).map(Number.call, Number);
+alert(number);
    });
 
 });
