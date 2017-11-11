@@ -1,12 +1,6 @@
 
 
 	
-	.logo{
-		height:600px
-		width:300px;
-		margin: 0 auto;
-		display:block;
-	}
 
 
 	.elflogo{
@@ -18,12 +12,17 @@
 		padding-top: 30px;
 	}
 
-	h1 span{
+    .logo h1 {
+    	width:0;
+    	margin: 0 auto;
+
+    }
+
+	.logo h1 span{
 		font:26px Monaco, MonoSpace;
 		height:200px;
 		position: absolute;
 		width: 20px;
-		left:665px;
 		top: 0;
 		transform-origin: bottom center;
 		color:white;
@@ -48,7 +47,7 @@
 	
 	body{
   background: url("images/background.jpg");
-  background-size: 100%;
+  background-size: cover;
 }
 .christmasjoke{
 	font-family: 'Indie Flower', cursive;
