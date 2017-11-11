@@ -8,8 +8,8 @@
 		display: block;
 		border-radius: 999px;
 		height: 250px;
-		width:225px;
-		padding-top: 30px;
+		width:250px;
+		margin-top: 30px;
 	}
 
     .logo h1 {
@@ -20,7 +20,7 @@
 
 	.logo h1 span{
 		font:26px Monaco, MonoSpace;
-		height:200px;
+		height:155px;
 		position: absolute;
 		width: 0px;
 		top: 0;
