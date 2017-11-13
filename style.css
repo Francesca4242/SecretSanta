@@ -137,6 +137,20 @@
 	height:200px;
 	width:200px;
 }
+
+.catty{
+	border-radius:999px;
+	height:300px;
+	width: 300px;
+	margin:0 auto;
+	display:block;
+	padding:5px;
+}
+
+footer{
+	background-color:#e60000; 
+}
+
 table {
   border-collapse: separate;
   border-spacing: 110px 0px;
