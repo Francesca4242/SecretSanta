@@ -98,6 +98,11 @@
 	margin-left: 0px;
 	margin-right: 1200px;
 }
+.joketable {
+	margin: 0 auto;
+	padding: 20px;
+	width:100%;
+}
 
 .a {
 	display: none;
