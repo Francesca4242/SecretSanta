@@ -1,11 +1,14 @@
 	.logo{
-		background-image: url("images/header.jpg");
+		background-image: url("images/reindeerborder.jpg");
 		top:0px;
-		padding:-40px;
+		padding:0px;
 		box-sizing: border-box;
 		border: 0px;
 		outline:0px;
 		display: block;
+		margin:0;
+		background-repeat: no-repeat;
+		
 	}
 	.elflogo{
 		margin: 0 auto;
@@ -13,7 +16,7 @@
 		border-radius: 999px;
 		height: 250px;
 		width:250px;
-		margin-top: 20px;
+		margin-top: 25px;
 	}
 	
 
