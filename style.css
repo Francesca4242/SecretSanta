@@ -99,6 +99,8 @@
 	margin-right: 1200px;
 }
 
+
+
 .a {
 	display: none;
 	color:#e60000;
@@ -212,10 +214,7 @@ footer{
 	background-color:#e60000; 
 }
 
-table {
-  border-collapse: separate;
-  border-spacing: 110px 0px;
-}
+
 
 h1{
 	color:white;
