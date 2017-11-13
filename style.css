@@ -6,7 +6,7 @@
 	}
 
 	.logo{
-		background-image: url("images/reindeerborder.jpg");
+		background-image: url("background");
 		top:0px;
 		padding:0px;
 		box-sizing: border-box;
@@ -68,6 +68,11 @@
   background: url("images/background.jpg");
   background-size: cover;
   margin:0px;
+}
+.jokes{
+	background: url("images/header.jpg");
+	background-size: cover;
+	margin:0px;
 }
 .contact{
   background: url("images/background.jpg");
