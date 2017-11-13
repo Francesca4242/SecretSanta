@@ -1,16 +1,12 @@
-
-
-	
-
-
 	.elflogo{
 		margin: 0 auto;
 		display: block;
 		border-radius: 999px;
 		height: 250px;
 		width:250px;
-		margin-top: 30px;
+		margin-top: 20px;
 	}
+	
 
     .logo h1 {
     	width:0;
@@ -24,7 +20,7 @@
 		position: absolute;
 		width: 0px;
 		top: 0;
-		transform-origin: bottom center;
+		transform-origin: bottom center; 
 		color:white;
 
 	}
@@ -50,7 +46,7 @@
   background-size: cover;
 }
 .christmasjoke{
-	font-family: 'Indie Flower', cursive;
+	font-family: 'Shrikhand', cursive;
 	color: white;
 	text-align:center;
 	margin-left: 0px;
