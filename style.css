@@ -60,6 +60,11 @@
   background-size: cover;
   margin:0px;
 }
+.contact{
+  background: url("images/background.jpg");
+  background-size: cover;
+  margin:0px;
+}
 .christmasjoke{
 	font-family: 'Shrikhand', cursive;
 	color: white;
