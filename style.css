@@ -1,3 +1,12 @@
+	.logo{
+		background-image: url("images/header.jpg");
+		top:0px;
+		padding:-40px;
+		box-sizing: border-box;
+		border: 0px;
+		outline:0px;
+		display: block;
+	}
 	.elflogo{
 		margin: 0 auto;
 		display: block;
@@ -19,7 +28,7 @@
 		height:155px;
 		position: absolute;
 		width: 0px;
-		top: 0;
+		top: 0px;
 		transform-origin: bottom center; 
 		color:white;
 
@@ -44,6 +53,7 @@
 	body{
   background: url("images/background.jpg");
   background-size: cover;
+  margin:0px;
 }
 .christmasjoke{
 	font-family: 'Shrikhand', cursive;
