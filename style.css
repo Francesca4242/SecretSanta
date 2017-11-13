@@ -1,4 +1,4 @@
-	.body{
+	.header{
 		background-image: url("images/background.jpg");
 		display:block;
 		margin:0;
@@ -79,8 +79,7 @@
   background-size: cover;
   margin:0px;
 }
-.christmasjoke{
-	font-family: 'Shrikhand', cursive;
+.christmasjoke {
 	color: white;
 	text-align:center;
 	margin-left: 0px;
