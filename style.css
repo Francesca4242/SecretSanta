@@ -1,7 +1,7 @@
 	
 	body{
 		
-  background: url(images/reindeerborder.jpg);
+  background: url(images/reindeer.jpg);
   background-size: 100%;
 }
 	.elflogo{
@@ -10,7 +10,7 @@
 		border-radius: 999px;
 		height: 250px;
 		width:250px;
-		margin-top: 25px;
+		margin-top: 30px;
 	}
 	
 
@@ -27,7 +27,7 @@
 		width: 0px;
 		top: 0px;
 		transform-origin: bottom center; 
-		color:white;
+		color:#e60000;
 
 	}
 	.char1 {transform:rotate(-36deg);}
@@ -51,6 +51,10 @@
 		background-size: cover;
 		margin:0px;
 	}
+	.secretsantagenerator h1{
+	color:#e60000;
+	text-align:center;
+}
 	.history{
   background: url("images/background.jpg");
   background-size: cover;
@@ -60,6 +64,10 @@
 	background: url("images/header.jpg");
 	background-size: cover;
 	margin:0px;
+}
+.jokes h1{
+	color:#e60000;
+	text-align:center;
 }
 .contact{
   background: url("images/background.jpg");
@@ -113,6 +121,7 @@ table {
   border-collapse: separate;
   border-spacing: 110px 0;
 }
+
 h1{
 	color:white;
 	text-align:center;
