@@ -44,6 +44,18 @@
 	.char12 {transform:rotate(30deg);}
 	.char13 {transform:rotate(36deg);}
 
+	.pagejump{
+		background-color:#e60000;
+		padding: 20px;
+		text-align: center;	
+	}
+
+	.pagejump a{
+		color:white;
+		
+
+	}
+
 
 
 	.secretsantagenerator{
@@ -55,6 +67,8 @@
 	color:#e60000;
 	text-align:center;
 }
+
+	
 	.history{
   background: url("images/background.jpg");
   background-size: cover;
@@ -68,6 +82,13 @@
 .jokes h1{
 	color:#e60000;
 	text-align:center;
+}
+.q{
+	color:#e60000;
+	
+}
+.a{
+	color:#e60000;
 }
 .contact{
   background: url("images/background.jpg");
