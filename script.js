@@ -3,17 +3,18 @@
 $( document ).ready(function() {
     console.log( "ready!" );
 
- 
+ //adds new boxes to form
 
     $("#add").click(function() {
   $(".form").append('<div class="entry"><label for="name">Name</label> <input type="text" id="name" class="user_name"> <label for="email">Email</label> <input type="text" id="email" class="address"></div>')
 });
 
-
+//shows christmas cracker joke
    $(".huh").click(function() {
   $(".a").show();
 });
 
+//when send button is clicked
    $("#send").click(function() {
     // counts number of text boxes
     var numItem= $('.entry').length;
