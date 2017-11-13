@@ -52,7 +52,6 @@
 
 	.pagejump a{
 		color:white;
-		
 
 	}
 
@@ -140,7 +139,7 @@
 }
 table {
   border-collapse: separate;
-  border-spacing: 110px 0;
+  border-spacing: 110px 0px;
 }
 
 h1{
