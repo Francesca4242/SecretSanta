@@ -14,6 +14,25 @@ $( document ).ready(function() {
   $(".a").show();
 });
 
+ $(".huh1").click(function() {
+  $(".a1").show();
+});
+
+ $(".huh2").click(function() {
+  $(".a2").show();
+});
+
+ $(".huh3").click(function() {
+  $(".a3").show();
+});
+
+ $(".huh4").click(function() {
+  $(".a4").show();
+});
+
+ $(".huh5").click(function() {
+  $(".a5").show();
+});
 //when send button is clicked
    $("#send").click(function() {
     // counts number of text boxes
